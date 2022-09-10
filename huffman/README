@@ -1,13 +1,1 @@
-Name: 	 David Onchuru
-I.D.No.: 1647809
-CMPUT 274 Fall 2021
 
-Assignment 2: Huffman Coding
-
-Included Files:
-	*util.py 
-	*README
-
-Got help from 
-	:the TAs Steven Tang and Jordan Van Den Bruel on understanding the concept of how the program works.
-	:the Student's Workbook to CMPUT 274 Huffman pdf. It helped me understand how trees and huffman coding works in general and how to implement it in python
