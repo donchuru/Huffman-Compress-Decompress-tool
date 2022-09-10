@@ -12,7 +12,7 @@ Included Files:
 - various .answer files for correctness testing
 - util.py: Contains the five functions read_tree(), decode_byte(), write_tree(), compress(), and decompress()
 
-*How to run*
+**How to run**
 1.Go to the wwwroot directory.
 2.Open a bash terminal and open the web server using "python3 ../webserver.py".
 3.You can then go to the url "http://localhost:8000" to view the webpage and image of Huffman that will appear if the decompressor is functioning properly. Note that the port can be changed by modifying the variable port in webserver.py.
