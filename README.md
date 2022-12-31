@@ -1,5 +1,8 @@
 # Huffman-Compress-Decompress Utility
 
+A tool for compressing and decompressing all file types into .huf files \
+Implemented in Python3
+
 Included Files:
 - Makefile: automatically start web server, various tests
 - bitio.py: Contains the classs BitWriter and BitReader
